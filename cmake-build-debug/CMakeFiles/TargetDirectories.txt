@@ -1,0 +1,3 @@
+/Users/kylesock/CLionProjects/cppRoadmap/cmake-build-debug/CMakeFiles/cppRoadmap.dir
+/Users/kylesock/CLionProjects/cppRoadmap/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/kylesock/CLionProjects/cppRoadmap/cmake-build-debug/CMakeFiles/rebuild_cache.dir
